@@ -1,2 +1,2 @@
 # tp-mercadolibre
-https://6197002fc59adf2c3ea3d628--dazzling-hypatia-5383c7.netlify.app/
+https://61970173d9c1710007b7051d--dazzling-hypatia-5383c7.netlify.app/
